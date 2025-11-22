@@ -13,8 +13,8 @@ TinyLink allows users to:
 
 ## 🚀 Live Demo
 
-- **Frontend:** [Deploy on Vercel](https://tany-link-url-sortner.onrender.com)
-- **Backend:** [Deploy on Render](https://tany-link-url-sortner.vercel.app/)
+- **Backend:** [Deploy on Vercel](https://tany-link-url-sortner.onrender.com)
+- **Frontend:** [Deploy on Render](https://tany-link-url-sortner.vercel.app/)
 
 ## 🛠 Tech Stack
 
