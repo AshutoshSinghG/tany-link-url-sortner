@@ -9,6 +9,9 @@
 - ✅ **DELETE /api/links/:code** - Delete link
 - ✅ **GET /:code** - Redirect to target URL (302) with click tracking
 - ✅ **GET /healthz** - Health check endpoint
+- ✅ **User Creation** - Logged In or Register features
+- ✅ **JWT Authentication** - Check Authentication to Token (cockie)
+- ✅ **Encryption/Decryption** -For Secure Password
 - ✅ URL validation (requires http:// or https://)
 - ✅ Shortcode validation (6-8 alphanumeric characters)
 - ✅ Auto-generate shortcodes when not provided
