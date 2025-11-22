@@ -210,33 +210,9 @@ See [frontend/README.md](./frontend/README.md) for detailed instructions.
 
 ## 🎥 Demo Video Recording
 
-### Using OBS Studio
+### REcorded Video
 
-1. **Download OBS Studio:** [obsproject.com](https://obsproject.com)
-2. **Setup:**
-   - Add Display Capture source
-   - Add Audio Input Capture (microphone)
-   - Configure canvas size (1920x1080 recommended)
-3. **Record:**
-   - Click "Start Recording"
-   - Demonstrate all features:
-     - Creating links
-     - Viewing dashboard
-     - Checking stats
-     - Deleting links
-   - Click "Stop Recording"
-4. **Export:** Video saved to your Videos folder
-
-### Using Loom
-
-1. **Install Loom:** [loom.com](https://loom.com)
-2. **Record:**
-   - Click "New Recording"
-   - Select screen + camera (optional)
-   - Click "Start Recording"
-   - Demonstrate features
-   - Click "Stop Recording"
-3. **Share:** Copy the Loom link
+1. **Demo Video Link:** [Click heare](https://obsproject.com)
 
 ### Video Content Checklist
 
