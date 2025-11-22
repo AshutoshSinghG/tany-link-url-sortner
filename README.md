@@ -13,8 +13,8 @@ TinyLink allows users to:
 
 ## 🚀 Live Demo
 
-- **Frontend:** [Deploy on Vercel](https://vercel.com)
-- **Backend:** [Deploy on Render](https://render.com)
+- **Frontend:** [Deploy on Vercel](https://tany-link-url-sortner.onrender.com)
+- **Backend:** [Deploy on Render](https://tany-link-url-sortner.vercel.app/)
 
 ## 🛠 Tech Stack
 
@@ -291,10 +291,4 @@ This is a take-home assignment project. For production use, consider:
 - Custom domains
 - QR code generation
 - Link expiration dates
-
-## 📞 Support
-
-For issues or questions, please refer to the individual README files:
-- [Backend README](./backend/README.md)
-- [Frontend README](./frontend/README.md)
 
