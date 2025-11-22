@@ -210,9 +210,9 @@ See [frontend/README.md](./frontend/README.md) for detailed instructions.
 
 ## 🎥 Demo Video Recording
 
-### REcorded Video
+### Recorded Video
 
-1. **Demo Video Link:** [Click heare](https://obsproject.com)
+1. **Demo Video Link:** [Click heare](https://drive.google.com/file/d/1YXcpt5_ITBOdyvT4RainW0j5xQfyQMwp/view?usp=sharing)
 
 ### Video Content Checklist
 
